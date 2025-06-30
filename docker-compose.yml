@@ -1,6 +1,9 @@
+version: "3.8"
+
 services:
-  bot:
-    build: .
-    restart: always
+  parse-hub-bot:
+    image: smhw3565/parse-hub-bot
+    container_name: parse-hub-bot
+    restart: unless-stopped
     env_file:
-      - .env 
+      - .env
