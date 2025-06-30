@@ -2,7 +2,7 @@
 
 ParseHubBot是一个开箱即用的高性能异步[抖音](https://www.douyin.com/)|[TikTok](https://www.tiktok.com/)|[Bilibili](https://www.bilibili.com/)数据爬取工具，支持API调用，在线批量解析及下载。
 
-Github源地址：https://github.com/xymn2023/parse_hub_bot
+Github源地址：https://github.com/z-mio/parse_hub_bot
 
 此项依赖于API,Docker Hub仓库地址：https://hub.docker.com/r/smhw3565/video_download_api
 
@@ -143,4 +143,4 @@ Docker 将会自动拉取 `smhw3565/parse-hub-bot` 镜像，并使用您的 `.en
 
 ## 项目来源
 
-本项目基于 [z-mio/parse_hub_bot](https://github.com/z-mio/parse_hub_bot) 进行修改和封装，感谢原作者的贡献。
+本项目基于 [z-mio/parse_hub_bot](https://github.com/z-mio/parse_hub_bot)提供，进行修改和封装，感谢原作者的贡献。
